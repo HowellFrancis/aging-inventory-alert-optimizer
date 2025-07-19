@@ -19,8 +19,9 @@ A comprehensive Excel-based analytics suite enabling C-suite stakeholders to ind
 ### 18% inventory turn rate enhancement
 
 ## Data Transformation Elements
-Single-Pass Processing Engine: Sub-second analysis across complete SKU universe with predictive model-enhanced scoring. Precision rate: >=92% accuracy.
-Multi-Dimensional SKU Segmentation: Advanced clustering algorithm across seasonal cycles and regional demand patterns. Classification accuracy: 98.3% precision.
+### Single-Pass Processing Engine: Sub-second analysis across complete SKU universe with predictive model-enhanced scoring. Precision rate: >=92% accuracy.
+
+### Multi-Dimensional SKU Segmentation: Advanced clustering algorithm across seasonal cycles and regional demand patterns. Classification accuracy: 98.3% precision.
 
 ## Strategic Outcome
 ### Transformed reactive inventory management system into a predictive intelligence platform, using existing organizational infrastructure.
@@ -28,3 +29,5 @@ Multi-Dimensional SKU Segmentation: Advanced clustering algorithm across seasona
 ### Scalability Validated: Stress-tested under 10x peak demand scenarios; system maintains <=5-second response times with 99.7% uptime.
 
 ### Strategic consulting deliverable | Classification: Confidential | HowellFrancis
+📊 [Download Excel Suppressor Model](excel-models/aging_inventory_suppressor.xlsx)
+
